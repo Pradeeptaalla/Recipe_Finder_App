@@ -40,14 +40,13 @@ If you'd like to explore more of my projects, check out my GitHub profile!
 ## Submission Details
 
 ### Level 1 (50%) - Working with AI
-I worked with ChatGPT to assist in writing the React code, creating the README, and understanding how to handle API requests and pagination. You can view my conversation with ChatGPT here: [ChatGPT conversation link].
+I worked with ChatGPT to assist in writing the React code, creating the README, and understanding how to handle API requests and pagination. You can view my conversation with ChatGPT here: [ChatGPT conversation link](https://chatgpt.com/share/672b912d-78a4-8002-a9a2-3914008b5474).
 
 ### Level 2 (30%) - Working Application
-The application is deployed on CodeSandbox, and you can view it live here: [Recipe Finder App on CodeSandbox](https://codesandbox.io/your-sandbox-link)
+The application is deployed on Vercel, and you can view it live here: [Recipe Finder App on Vercel](https://recipe-finder-app-ruby.vercel.app/)
 
-Alternatively, you can view the app deployed on StackBlitz here: [Recipe Finder App on StackBlitz](https://stackblitz.com/your-sandbox-link)
 
 ### Level 3 (20%) - Code Sharing
-The code for this project is hosted on GitHub. You can find the repository here: [Recipe Finder App GitHub Repository](https://github.com/your-username/recipe-finder-app)
+The code for this project is hosted on GitHub. You can find the repository here: [Recipe Finder App GitHub Repository](https://github.com/Pradeeptaalla/Recipe_Finder_App)
 
 Please refer to the README in the repository for more details about the project and how to run the app locally.
